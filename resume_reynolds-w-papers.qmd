@@ -79,14 +79,12 @@ format:
 \vspace{1.5pt}
 
 <!-- SKILLS -->
-\begin{large}{\bf SKILLS}
+\begin{large}{\bf Selected Coursework}
   \vspace{3pt}
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Languages and Tools** - *basic:* Python, R *intermediate:* Rmarkdown, LaTeX, Git
-**Selected Coursework** - Deep Learning for Humanists (Workshop, University of Victoria), NLP / Sentiment Analysis / Corpus Linguistics, Agents and Agency (Graduate Seminar Katheryn Lindeman), CoLiPhi Corpus Linguistics and Philosophy (Workshop, University of Zurich)
-
+Hazlett, Alan (2019). Topics in Ethics: Desire. Washington University.; Lindeman, Kathryn (2019). Agents and Agency. Saint Louis University.; De Cruz, Helen (2019). Geneologies of Morality. Saint Louis University.; Greco, John (2019). Modern Philosophy: Hume & Reid. Saint Louis University.
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
@@ -129,25 +127,6 @@ format:
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://schf-org.github.io/SCHF-Org/}{Saleno Center for Human Flourishing}}\end{flushleft}
-    \begin{flushright}Aug 2024-Present\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Founder, Director}\end
-    {flushleft}\begin{flushright}Saint Louis, MO\end
-    {flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* In collaboration with BGG, I developed SCHF project advancing human flourishing and moral well-being via interactive digital platforms (e.g., MMOs), investigating impacts on critical thinking, ethical reasoning, and moral decision-making for underserved youth.
-* Developed AI-driven tools to model ethical AI interactions, aligning with productivity platforms (e.g., PhiloQuest, a DND philosophical campgaign generator) that guide users to next-best actions.
-
-\vspace{7pt}
-
-<!-- EXPERIENCE : 4TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://www.lc.edu/}{Lewis and Clark Community College}}\end{flushleft}
     \begin{flushright}August 2024 - May 2025\end{flushright}
   \end{multicols}
@@ -159,30 +138,52 @@ format:
 \end{large}
 \vspace{-0.16cm}
 * Contemporary Moral Problems (Ethics): Designed courses integrating AI ethics and collaborative problem-solving.
+
+<!-- EXPERIENCE : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Saint Louis University}\end{flushleft}
+    \begin{flushright}Aug 2018-2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{PhD Candidate in Philosophy}\end
+    {flushleft}\begin{flushright}Saint Louis, MO\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Designed and taught multiple undergraduate courses (Ethics, Logic, Introduction to Philosophy, Contemporary Moral Problems) as Instructor of Record, guiding 20–30 students per section in critical thinking, moral reasoning, and worldview formation.
+* Served two years as Assistant to the Editor for two peer-reviewed philosophy journals (Res Philosophica and Schutzian Research), managing manuscript review, editorial processes, and scholarly integrity.
+* Organized and chaired academic conferences, panels, and workshops; delivered 10+ papers at national and international conferences and chaired sessions on ethics, aesthetics, and epistemology.
+* Developed and led workshops on natural language processing, digital humanities tools, and ethical analysis for philosophers and educators, expanding access to advanced research methods.
+* Conducted digital humanities research as Graduate Research Fellow in the Walter J. Ong Center, building annotation tools and analyzing moral sentiment in texts to support ethical and interdisciplinary inquiry.
+* Mentored students, served on departmental committees, and contributed to graduate student initiatives, fostering collaborative and supportive academic communities.
+
 \vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
-{\bf SELECTED PROJECTS}
+{\bf PERSONAL PROJECTS}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/school-shootings}{Saleno Center for Human Flourishing}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
+    \begin{flushleft}\textit{\href{https://schf-org.github.io/schf}{Saleno Center for Human Flourishing}}\end{flushleft}
+    \begin{flushright}August 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* This is a project intending to provide opportunities for ethical and moral reflection to disadvantaged youth. In it, we explore art's profound capacity to ignite ethical reflection on our deepest bonds—family, friendship, love—and the paths that lead to union with God.
+* A program for disadvantaged youth that offers a space to explore art’s capacity to ignite ethical reflection on our deepest bonds—family, friendship, love—and the meaningful paths toward union with God.
 
 \vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-  \begin{flushleft}\textit{Social Identity and Music: Searching for moral autonomy and moral personhood in pop culture.}\end{flushleft}
+    \begin{flushleft}\textit{Academic Works in Progress}\end{flushleft}
     \begin{flushright}April 2020\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* (Under Review, Vernon Publishing) Social Identity and Music: Searching for moral autonomy and moral personhood in pop
-music.
+* God as the Best Possible Epistemic Ground of Human Dignity: Popular narrative and affirmations of human identity
+* Aesthetics of Epistemic Evil in the Middle Ages: The manticore mitigations of psychic disunity
